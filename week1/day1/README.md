@@ -38,3 +38,4 @@ Lead → Contact → Opportunity → Customer
 
 ## 7. Output
 Trailhead badge screenshots will be added here after completion.
+
